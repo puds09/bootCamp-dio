@@ -61,7 +61,6 @@ public class ArcoIris {
         arcoIris.clear();
 
         System.out.println("Confira se o conjunto está vazio: " + arcoIris.isEmpty());
-		
 	}
 		
 		
