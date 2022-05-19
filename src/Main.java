@@ -6,6 +6,7 @@ public class Main {
 
 	public static void main(String[] args) {
 		
+/*
 //		Testando os métodos da Classe Calculadora
 
 		Scanner scan = new Scanner(System.in);
@@ -28,6 +29,11 @@ public class Main {
 //		emprestimo
 		
 		Emprestimo.getValorFinal(100, 3);
+ */
+
+		
+		
+		
 	}
 
 }
